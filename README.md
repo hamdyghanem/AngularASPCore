@@ -27,9 +27,13 @@ The Angular front end application demonstrates:
 
 Page based Application Mobile friendly, adaptive UI Routing Animations and Page Transitions Client side and server side Authentication tracking Client side and server side Validation Managing Server Urls (dev/production) Angular CLI Project Version supported:
 
-Angular 4.0 Angular CLI 1.0
+Angular 4.0 
+Angular CLI 1.0
 
 cd \NT.ERP.Cloud\angularApp npm install
+
+
+
 <img src="https://raw.githubusercontent.com/hamdyghanem/AngularASPCore/master/IIS%20Express.png" />
 
 <img src="https://raw.githubusercontent.com/hamdyghanem/AngularASPCore/master/solution%20explorer.png" />

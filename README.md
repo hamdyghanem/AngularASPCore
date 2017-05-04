@@ -44,4 +44,8 @@ Angular CLI 1.0
 cd <installFolder>\NT.ERP.Cloud\angularApp
 npm install
 
+https://raw.githubusercontent.com/hamdyghanem/AngularASPCore/master/IIS%20Express.png
+
+https://raw.githubusercontent.com/hamdyghanem/AngularASPCore/master/solution%20explorer.png
+
 

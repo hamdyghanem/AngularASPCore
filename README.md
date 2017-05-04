@@ -10,8 +10,26 @@ Updating to 4 is as easy as updating your Angular dependencies to the latest ver
 
 On Linux/Mac: 
 npm install @angular/{common,compiler,compiler-cli,core,forms,http,platform-browser,platform-browser-dynamic,platform-server,router,animations}@latest typescript@latest --save 
+
 On Windows:
+
 npm install @angular/common@latest @angular/compiler@latest @angular/compiler-cli@latest @angular/core@latest @angular/forms@latest @angular/http@latest @angular/platform-browser@latest @angular/platform-browser-dynamic@latest @angular/platform-server@latest @angular/router@latest @angular/animations@latest typescript@latest --save
 
 Then run whatever ng serve or npm start command you normally use, and everything should work.
 
+Then run whatever ng serve or npm start command you normally use, and everything should work.
+
+Version supported:
+
+.NET Core 1.1.1 1.0.1 SDK Version Visual Studio 2017 (.csproj) Angular Features
+
+The Angular front end application demonstrates:
+
+Page based Application Mobile friendly, adaptive UI Routing Animations and Page Transitions Client side and server side Authentication tracking Client side and server side Validation Managing Server Urls (dev/production) Angular CLI Project Version supported:
+
+Angular 4.0 Angular CLI 1.0
+
+cd \NT.ERP.Cloud\angularApp npm install
+<img src="https://raw.githubusercontent.com/hamdyghanem/AngularASPCore/master/IIS%20Express.png" />
+
+<img src="https://raw.githubusercontent.com/hamdyghanem/AngularASPCore/master/solution%20explorer.png />

@@ -1,4 +1,3 @@
-# AngularASPCore
 Using Angular 4 with and ASP.NET Core 
 
 
@@ -15,37 +14,4 @@ On Windows:
 npm install @angular/common@latest @angular/compiler@latest @angular/compiler-cli@latest @angular/core@latest @angular/forms@latest @angular/http@latest @angular/platform-browser@latest @angular/platform-browser-dynamic@latest @angular/platform-server@latest @angular/router@latest @angular/animations@latest typescript@latest --save
 
 Then run whatever ng serve or npm start command you normally use, and everything should work.
-
-Version supported:
-
-.NET Core 1.1.1
-1.0.1 SDK Version
-Visual Studio 2017 (.csproj)
-Angular Features
-
-The Angular front end application demonstrates:
-
-Page based Application
-Mobile friendly, adaptive UI
-Routing
-Animations and Page Transitions
-Client side and server side Authentication tracking
-Client side and server side Validation
-Managing Server Urls (dev/production)
-Angular CLI Project
-Version supported:
-
-Angular 4.0
-Angular CLI 1.0
-
-
-
-
-cd <installFolder>\NT.ERP.Cloud\angularApp
-npm install
-
-https://raw.githubusercontent.com/hamdyghanem/AngularASPCore/master/IIS%20Express.png
-
-https://raw.githubusercontent.com/hamdyghanem/AngularASPCore/master/solution%20explorer.png
-
 

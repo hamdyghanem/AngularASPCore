@@ -32,4 +32,4 @@ Angular 4.0 Angular CLI 1.0
 cd \NT.ERP.Cloud\angularApp npm install
 <img src="https://raw.githubusercontent.com/hamdyghanem/AngularASPCore/master/IIS%20Express.png" />
 
-<img src="https://raw.githubusercontent.com/hamdyghanem/AngularASPCore/master/solution%20explorer.png />
+<img src="https://raw.githubusercontent.com/hamdyghanem/AngularASPCore/master/solution%20explorer.png" />
